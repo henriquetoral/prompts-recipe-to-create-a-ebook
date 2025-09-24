@@ -1,5 +1,5 @@
 
-# Projeto EBOOK Gerado por I.A.s
+# Projeto EBOOK Gerado por I.A.s Generativas - Henrique Toral
 
 
  > ℹ️ **NOTE:** Este é o repositório desenvolvido por mim durante o curso em que participei na plataforma da [DIO](https://dio.me)
