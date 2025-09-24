@@ -19,8 +19,17 @@ ChatGPT：
 
 |   Ação   | prompt                                                                                                                                                                                                                                                                         |
 | :------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-|  título  | Crie um título de um ebook sobre o tema de instalações elétricas residenciais. O ebook é do nicho de Engenharia elétrica e o subnicho é de Instalações Residenciais. O título deve ser épico e curto, e tenha uma temática de Harry Potter. Me liste 5 variações de títulos.                                                        |
-| conteúdo | Crie um texto para ebook de 5 capítulos, com foco em Instalações elétrica residenciais, listando as principais etapas para a realização de uma instalação elétrica residencial segura. {REGRAS} Explique de maneira simples. Deixe o texto enxuto. Traga alguns exemplos de erros que são comumente cometidos e os riscos que podem causar. Deixe a parte dos erros cometidos em um paragrafo separado. Sempre deixe um título sugestivo por tópico e um título principal para cada capítulo. Crie um subtitulo para cada capítulo. Faça os textos de forma corrida. {REGRAS NEGATIVAS} Não faça uso de emojis. Não faça tópicos. |
+|  título  | Crie um título de um ebook sobre o tema de instalações elétricas residenciais. O ebook é do nicho de Engenharia elétrica e o subnicho é de Instalações Residenciais. O título deve ser épico e curto, e tenha uma temática de Harry Potter. 
+Me liste 5 variações de títulos.                                                        |
+| conteúdo | Crie um texto para ebook de 5 capítulos, com foco em Instalações elétrica residenciais, listando as principais etapas para a realização de uma instalação elétrica residencial segura. 
+{REGRAS} Explique de maneira simples. 
+Deixe o texto enxuto. Traga alguns exemplos de erros que são comumente cometidos e os riscos que podem causar. 
+Deixe a parte dos erros cometidos em um paragrafo separado. 
+Sempre deixe um título sugestivo por tópico e um título principal para cada capítulo. 
+Crie um subtitulo para cada capítulo. Faça os textos de forma corrida. 
+{REGRAS NEGATIVAS} 
+Não faça uso de emojis. 
+Não faça tópicos. |
 
 
 BingImageCreator：
