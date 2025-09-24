@@ -41,5 +41,7 @@ BingImageCreator：
 
 
 ---
+Ebook feito por [Henrique Toral](https://github.com/henriquetoral)
 
-⌨️ com 💜 por [Felipe Aguiar](https://github.com/felipeAguiarCode)
+
+Bases e curso desenvolvido por [Felipe Aguiar](https://github.com/felipeAguiarCode)
